@@ -1,5 +1,5 @@
 # Video Frame Sampler
-A lightweight video frame sampler.
+A lightweight video frame sampler. Support multiprocessing to improve the throughput.
 
 ## Usage
 ```
